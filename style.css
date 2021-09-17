@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    text-align: left;
+    font-family: monospace;
+    font-size: 22px;
+    color: black;
+    width: 100%;
+}
+
+.heading button{
+    border: 2px solid black;
+    font-size: 17px;
+    margin-left: 1200px;
+}
+
+canvas{
+    border-radius: 15px;
+    border: 5px solid white;
+    margin-right: 8px;
+}
+
+.button1{
+    border: 2px solid white;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+.myh5{
+    font-family: monospace; 
+    text-align: left;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    background-color: cornflowerblue;
+    width: 100%;
+}
+
+#status{
+    font-size: 20px;
+}
